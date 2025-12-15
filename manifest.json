@@ -1,7 +1,8 @@
 {
   "name": "רשימת קניות משפחת פיקארסקי",
   "short_name": "רשימת קניות",
-  "start_url": ".",
+  "start_url": "/Shopping-list-/",
+  "scope": "/Shopping-list-/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#8b5cf6",
